@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Number1</string>
+    <string name="answer">Угадай число от 1 до 100!</string>
+    <string name="text">Введи текст:</string>
+    <string name="button">Проверить.</string>
+    <string name="miss">Перелет!</string>
+    <string name="ahead">Недолет!</string>
+    <string name="hit">В точку!!</string>
+    <string name="error">Неверное число!</string>
+    <string name="play_more">Сыграть еще?</string>
+</resources>
